@@ -4,7 +4,7 @@ Project website built using Google Sites : https://sites.google.com/view/voltage
 
 # Update
 
-v3 - Paper writted and accepted in STI 2023
+v3 - Final draft written and accepted in STI 2023
 
 v2 - Implemented object detection alongside color detection although it is very resource intensive.
 
